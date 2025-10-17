@@ -1,0 +1,53 @@
+# ⚡ Verilog_Projects  
+### 🧠 RTL Design | Combinational & Sequential Circuits | Digital Logic Practice  
+
+This repository showcases my **Verilog HDL implementations** of core **Digital Electronics building blocks**, focusing on **RTL design, simulation, and verification**.  
+It serves as both a **learning archive** and a **reference library** for anyone exploring **ASIC/FPGA design and verification** fundamentals.
+
+---
+
+## 📂 Repository Contents  
+
+### 🔸 **Combinational Circuits**
+- Half Adder / Full Adder  
+- Half Subtractor / Full Subtractor  
+- Multi-bit Adder / Subtractor  
+- Encoder / Decoder  
+- Multiplexer / Demultiplexer  
+- Comparator  
+- Binary ↔ Gray Code Conversion  
+
+---
+
+### 🔸 **Sequential Circuits**
+- SR, JK, D, and T Flip-Flops  
+- Counters (Up, Down, MOD-N, Gray Code Counter)  
+- Shift Registers (SISO, SIPO, PISO, PIPO)  
+- Finite State Machine (FSM) Examples  
+  - Moore & Mealy Machine Implementations  
+  - Vending Machine Controller  
+  - Traffic Light Controller  
+
+---
+
+### 🔸 **Verilog Concepts & Experiments**
+- Blocking vs Non-Blocking Assignments  
+- Procedural Timing Controls  
+- Synthesizable vs Non-Synthesizable Code Examples  
+- Testbench Creation & Simulation Flow  
+
+---
+
+## 🧰 Tools & Technologies  
+- **ModelSim / QuestaSim** – Simulation & Debugging  
+- **Xilinx Vivado / ISE** – Waveform Visualization & RTL Synthesis  
+- **Synopsys Design Compiler** – Logic Synthesis (for selected modules)  
+- **Verilog HDL** – RTL Design & Testbench Development  
+
+---
+
+## 🚀 How to Run  
+1. **Clone the Repository:**  
+   ```bash
+   git clone https://github.com/YOURUSERNAME/Verilog_Projects.git
+   cd Verilog_Projects
