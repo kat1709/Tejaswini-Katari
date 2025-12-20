@@ -1,4 +1,4 @@
-# 👋 Hi, I'm TEJASWINI  
+# 👋 Hi, I'm TEJASWINI Katari
 ### 💡 Design Verification & Chip Design Enthusiast | ASIC / SoC / FPGA Engineer  
 
 🚀 Passionate about bridging **Design and Verification** to deliver efficient, high-performance silicon.  
